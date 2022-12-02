@@ -126,7 +126,7 @@ font-size:13px;
 .info-btn>a{ color:white;
 text-decoration:none;
 }
-.nav-section{ background-color:white;
+.nav-section{ /* background-color:white; */
 	padding:5px 0;
 }
 
